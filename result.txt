@@ -1,0 +1,3 @@
+psnr of image art :28.00819969640223
+psnr of image reindeer :27.62829872956158
+psnr of image dolls :27.75644997709582
